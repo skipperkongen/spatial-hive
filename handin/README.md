@@ -1,4 +1,6 @@
-#This README file explains how to get the experiment described in the report for this project up and running. It is assumed that the operating system is Ubuntu or another linux distrubtion that supports the command tools used below. 
+# HOWTO
+
+This README file explains how to get the experiment described in the report for this project up and running. It is assumed that the operating system is Ubuntu or another linux distrubtion that supports the command tools used below. 
 
 #Download and unpack the following files:
 wget http://mirrors.dotsrc.org/apache/hadoop/common/hadoop-1.0.4/hadoop-1.0.4.tar.gz
